@@ -1,0 +1,4 @@
+{
+    "welcomeMessage": "Welcome %{name} to my multilanguage app.",
+    "notification": "You have %{smart_count} message. |||| You have %{smart_count} messages."
+}
